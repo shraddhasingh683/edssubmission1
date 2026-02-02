@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: https://author-p166415-e1773592.adobeaemcloud.com/bin/franklin.delivery/shraddhasingh683/edssubmission/main
+    type: "markup"
+    suffix: ".html"
